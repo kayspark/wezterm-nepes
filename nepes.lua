@@ -5,8 +5,8 @@
 local M = {}
 
 M.dark = {
-  bg = "#1C1C1E",
-  fg = "#D8D8DC",
+  bg = "#1E1C1A",
+  fg = "#DCD8D4",
   blue = "#4A6ABF",
   brand_blue = "#23438E",
   green = "#43AD49",
@@ -15,7 +15,7 @@ M.dark = {
   magenta = "#9B6ABF",
   cyan = "#3A9BA5",
   gray = "#A5A8AF",
-  muted = "#6E6E78",
+  muted = "#787068",
 }
 
 M.light = {
