@@ -1,0 +1,32 @@
+[colors]
+background = "#1C1C1E"
+foreground = "#D8D8DC"
+cursor_bg = "#D8D8DC"
+cursor_fg = "#1C1C1E"
+cursor_border = "#D8D8DC"
+selection_fg = "#D8D8DC"
+selection_bg = "#2D4A6A"
+scrollbar_thumb = "#141416"
+split = "#3A3A3E"
+
+ansi = ["#141416", "#D4252C", "#43AD49", "#FEA413", "#4A6ABF", "#9B6ABF", "#3A9BA5", "#A5A8AF"]
+brights = ["#6E6E78", "#E85B61", "#6BCF70", "#FFBD4A", "#6B8AD8", "#BB8EDA", "#5CBDC7", "#D8D8DC"]
+
+[colors.tab_bar]
+background = "#141416"
+
+[colors.tab_bar.active_tab]
+bg_color = "#23438E"
+fg_color = "#D8D8DC"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#1C1C1E"
+fg_color = "#A5A8AF"
+
+[colors.tab_bar.new_tab]
+bg_color = "#1C1C1E"
+fg_color = "#A5A8AF"
+
+[metadata]
+name = "nepes-dark"
+author = "kaypark"

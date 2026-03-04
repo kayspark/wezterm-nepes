@@ -1,0 +1,32 @@
+[colors]
+background = "#F8F8F8"
+foreground = "#1C1C1E"
+cursor_bg = "#1C1C1E"
+cursor_fg = "#F8F8F8"
+cursor_border = "#1C1C1E"
+selection_fg = "#1C1C1E"
+selection_bg = "#B8D0F0"
+scrollbar_thumb = "#C9C8C8"
+split = "#D8D7D7"
+
+ansi = ["#1C1C1E", "#C4181F", "#2E8A34", "#D08A10", "#23438E", "#7A4FA0", "#2D7A82", "#E7E6E6"]
+brights = ["#7A7A84", "#D4252C", "#43AD49", "#FEA413", "#2E55B0", "#9B6ABF", "#3A9BA5", "#F8F8F8"]
+
+[colors.tab_bar]
+background = "#E7E6E6"
+
+[colors.tab_bar.active_tab]
+bg_color = "#23438E"
+fg_color = "#F8F8F8"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#F8F8F8"
+fg_color = "#5A5A64"
+
+[colors.tab_bar.new_tab]
+bg_color = "#F8F8F8"
+fg_color = "#5A5A64"
+
+[metadata]
+name = "nepes-light"
+author = "kaypark"
