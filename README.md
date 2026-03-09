@@ -4,6 +4,12 @@ Nepes corporate color scheme for [WezTerm](https://wezfurlong.org/wezterm/).
 
 Includes dark and light variants with matching tab bar colors.
 
+## Screenshots
+
+| Dark | Light |
+|------|-------|
+| ![Dark](docs/dark.png) | ![Light](docs/light.png) |
+
 ## Installation
 
 Clone or symlink this directory into your WezTerm color scheme search path:
