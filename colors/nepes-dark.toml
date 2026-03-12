@@ -5,11 +5,11 @@ cursor_bg = "#DCD8D4"
 cursor_fg = "#1E1C1A"
 cursor_border = "#DCD8D4"
 selection_fg = "#DCD8D4"
-selection_bg = "#2D4A6A"
+selection_bg = "#2E4C7A"
 scrollbar_thumb = "#161412"
 split = "#3E3A38"
 
-ansi = ["#161412", "#D4252C", "#43AD49", "#FEA413", "#4A6ABF", "#9B6ABF", "#3A9BA5", "#A5A8AF"]
+ansi = ["#161412", "#FF5C5C", "#3DDC84", "#FEA413", "#5C8CFF", "#9B6ABF", "#3A9BA5", "#A5A8AF"]
 brights = ["#787068", "#E85B61", "#6BCF70", "#FFBD4A", "#6B8AD8", "#BB8EDA", "#5CBDC7", "#DCD8D4"]
 
 [colors.tab_bar]
